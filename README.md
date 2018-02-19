@@ -16,3 +16,7 @@ Usage
 2) Locate the plugin in the Plugins menu
 3) The maximum intensity projection of the image will be displayed, the measures will pop up in a plot.
  
+ Acknowledgment
+ ==============
+ This plugin runs in a modified version of the LoG3D plugin, that can be found in
+ <a href="http://bigwww.epfl.ch/sage/soft/LoG3D/" />
