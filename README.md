@@ -1,4 +1,4 @@
-# Delta M algoritm.
+# Delta M algorithm.
 ## Python Script for Fiji
 
 Description
@@ -12,11 +12,12 @@ Installation
 
 Usage
 ============
-1) Open the image stack. A sample "A.tif" is provided.
+1) Open the image stack. 
+A sample image stack is provided in [my SharePoint account ](https://unican-my.sharepoint.com/:f:/g/personal/gomezperezai_unican_es/EpFrxdHEw2JFskqrGkSkF9QBvpLVRH3uTBam1OHlpC7iTQ?e=gCIfke)
 2) Locate the plugin in the Plugins menu
 3) The maximum intensity projection of the image will be displayed, the measures will pop up in a plot.
  
  Acknowledgment
  ==============
  This plugin runs in a modified version of the LoG3D plugin, that can be found in
-[website of Daniel Sage] [http://bigwww.epfl.ch/sage/soft/LoG3D/]
+[website of Daniel Sage](http://bigwww.epfl.ch/sage/soft/LoG3D/)
