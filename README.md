@@ -19,4 +19,4 @@ Usage
  Acknowledgment
  ==============
  This plugin runs in a modified version of the LoG3D plugin, that can be found in
- <a href="http://bigwww.epfl.ch/sage/soft/LoG3D/" />
+[website of Daniel Sage] [http://bigwww.epfl.ch/sage/soft/LoG3D/]
