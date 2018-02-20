@@ -9,7 +9,7 @@ Installation
 ============
 
 1) Copy the deltamalgo folder to the plugins folder inside Fiji
-2) You may need to Launch Fiji again.
+2) You may need to launch Fiji again.
 
 Usage
 ============
