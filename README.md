@@ -8,7 +8,7 @@ This python script measures the quantification of the formation of spots around 
 Installation
 ============
 
-1) Copy the folder deltamalgo to the plugins folder inside Fiji
+1) Copy the deltamalgo folder to the plugins folder inside Fiji
 
 Usage
 ============
