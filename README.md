@@ -10,6 +10,7 @@ Installation
 
 1) Copy the deltamalgo folder to the plugins folder inside Fiji
 2) You may need to Launch Fiji again.
+
 Usage
 ============
 1) Open the image stack. 
