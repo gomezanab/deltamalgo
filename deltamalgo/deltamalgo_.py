@@ -21,7 +21,6 @@ from ij.plugin.filter import GaussianBlur,ThresholdToSelection
 from operator import *
 from sys import modules
 from sys import path as sys_path
-modules.clear()
 
 #Default path to Fiji plugin directory,
 
