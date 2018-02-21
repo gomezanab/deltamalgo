@@ -19,7 +19,6 @@ from ij.io import FileSaver
 
 from ij.plugin.filter import GaussianBlur,ThresholdToSelection
 from operator import *
-from sys import modules
 from sys import path as sys_path
 
 #Default path to Fiji plugin directory,
