@@ -19,7 +19,8 @@ Some sample image stacks are provided in [my SharePoint account ](https://unican
 3) The maximum intensity projection of the image will be displayed, the measures will pop up in a plot. Values may be exported selecting the option "Save".
 
 NOTE: Running it in Windows, will display a warning : "console: Failed to install '': java.nio.charset.UnsupportedCharsetException: cp0."
-Know issue for Jython, adding -Dpython.console.encoding=UTF-8 as a VM argument to the run configuration for my program. For example: 
+
+It is a known issue for Jython, adding -Dpython.console.encoding=UTF-8 as a VM argument to the run configuration for my program. For example: 
 imageJ-win64.exe -Dpython.console.encoding=UTF-8
  
  Acknowledgment
