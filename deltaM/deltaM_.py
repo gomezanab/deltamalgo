@@ -23,7 +23,7 @@ from sys import path as sys_path
 
 #Default path to Fiji plugin directory,
 
-LOG_folder=os.path.join(os.getcwd(),"plugins","deltamalgo","LOG3DCaso5")
+LOG_folder=os.path.join(os.getcwd(),"plugins","deltaM","LOG3DCaso5")
 IW_folder=os.path.join(LOG_folder,"imageware")
 
 if LOG_folder not in sys_path:
