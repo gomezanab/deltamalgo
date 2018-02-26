@@ -20,7 +20,8 @@ Some sample image stacks are provided in [my SharePoint account ](https://unican
 
 NOTE: Running it in Windows, will display a warning : "console: Failed to install '': java.nio.charset.UnsupportedCharsetException: cp0."
 
-It is a known issue for Jython, adding -Dpython.console.encoding=UTF-8 as a VM argument to the run configuration for my program. For example: 
+It is a known issue for Jython, adding -Dpython.console.encoding=UTF-8 as a VM argument to the run configuration for my program. For example, run from console as: 
+
 imageJ-win64.exe -Dpython.console.encoding=UTF-8
  
  Acknowledgment
