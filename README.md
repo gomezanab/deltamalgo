@@ -15,7 +15,7 @@ Usage
 ============
 1) Open the image stack. 
 Some sample image stacks are provided in [my SharePoint account ](https://unican-my.sharepoint.com/:f:/g/personal/gomezperezai_unican_es/EpFrxdHEw2JFskqrGkSkF9QBvpLVRH3uTBam1OHlpC7iTQ?e=gCIfke)
-2) Locate the script  at the bottom of Plugins menu. 
+2) Locate and run the script  at the bottom of Plugins menu. 
 3) The maximum intensity projection of the image will be displayed, the measures will pop up in a plot. Values may be exported selecting the option "Save".
 
 NOTE: Running it in Windows, will display a warning : "console: Failed to install '': java.nio.charset.UnsupportedCharsetException: cp0."
